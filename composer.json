@@ -3,9 +3,9 @@
     "guzzlehttp/guzzle": "^6.2",
     "league/csv": "^8.2"
   },
-  "autoload": {
+  "autoload-dev": {
     "psr-4": {
-      "cryptocent/TradingIG": "src/"
+      "cryptocent\\TradingIG\\": "src/"
     }
   }
 }
